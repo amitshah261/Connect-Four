@@ -13,9 +13,9 @@ import java.util.Scanner;
 import java.util.Random;
 
 /**
- * This program implements the Connect 4 game where a user can play vs a 
- * computer or another player to get atleast 4 consecutive symbols in any direction and 
- * once he does that he wins the game. The computer/other player blocks his game.
+ * This program implements a variation to the Connect Four game where a user can play vs a 
+ * computer or another player to get at least 4 consecutive symbols in any direction and 
+ * once he does that he wins the game. The computer/other player blocks his game and tried to win himself.
  * 
  * @author      Saurabh Wani
  * @author      Amit Shah

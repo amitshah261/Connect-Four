@@ -17,7 +17,6 @@ import java.util.Random;
  * computer or another player to get at least 4 consecutive symbols in any direction and 
  * once he does that he wins the game. The computer/other player blocks his game and tried to win himself.
  * 
- * @author      Saurabh Wani
  * @author      Amit Shah
  * 
  */
